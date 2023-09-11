@@ -36,4 +36,6 @@ Basta seguir estes passos:
 
 ## Capturas de Tela do meu projeto
 
+- Endpoint de Listas contas
+
 ![Endpoint de Listas contas](./capturas/Listar%20Contas.PNG)
