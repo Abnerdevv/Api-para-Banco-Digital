@@ -5,5 +5,17 @@
 
  ## O que é este projeto?
 
+Esta  é uma aplicação simples de um banco digital. Como dono do banco, você pode:    
+
+- Listar contas bancarias
+- Criar conta bancaria
+- Atualizar usuário
+- Exluir conta
+- Deposita
+- Sacar
+- Transeferir
+- Olhar Saldo
+- Fazer extrato
+
 
 
