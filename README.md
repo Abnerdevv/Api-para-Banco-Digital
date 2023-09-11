@@ -33,3 +33,7 @@ Basta seguir estes passos:
 - npm install
 #### Execute o projeto
 - npm run dev
+
+## Como Executar ?
+
+![Descrição da Imagem](capturas/atualizar_usuario.png)
