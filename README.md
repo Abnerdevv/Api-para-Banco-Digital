@@ -22,7 +22,7 @@ Esta  é uma aplicação simples de um banco digital. Como dono do banco, você 
 Cada função desta é um endepoint.
 
 
-## Como Executar
+## Como Executar ?
 
 
 Basta seguir estes passos:
