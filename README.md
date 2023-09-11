@@ -40,26 +40,34 @@ Basta seguir estes passos:
 
 ![Endpoint de Listas contas](./capturas/Listar%20Contas.PNG)
 
+- Endpoint de Listas contas
 
 ![Endpoint de Listas contas](./capturas/Criar%20conta%20Bancaria.PNG)
 
+- Endpoint de Listas contas
 
 ![Endpoint de Listas contas](./capturas/Atualizar%20usuario.PNG)
 
+- Endpoint de Listas contas
 
 ![Endpoint de Listas contas](./capturas/Excluir%20conta.PNG)
 
+- Endpoint de Listas contas
 
 ![Endpoint de Listas contas](./capturas/Deposito.PNG)
 
+- Endpoint de Listas contas
 
 ![Endpoint de Listas contas](./capturas/Sacar.PNG)
 
+- Endpoint de Listas contas
 
 ![Endpoint de Listas contas](./capturas/Transferir.PNG)
 
+- Endpoint de Listas contas
 
 ![Endpoint de Listas contas](./capturas/Olhar%20Saldo.PNG)
 
+- Endpoint de Listas contas
 
 ![Endpoint de Listas contas](./capturas/Extrato.PNG)
