@@ -36,4 +36,4 @@ Basta seguir estes passos:
 
 ## Como Executar ?
 
-![Descrição da Imagem](capturas/atualizar_usuario.png)
+![Descrição da Imagem](./capturas/Listar%20Contas.PNG)
