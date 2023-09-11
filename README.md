@@ -28,7 +28,7 @@ Cada função desta é um endepoint.
 Basta seguir estes passos:
 
 ### Clone o repositório
-- git@github.com:Abnerdevv/Api-para-Banco-Digital.git
+- git clone git@github.com:Abnerdevv/Api-para-Banco-Digital.git
 ### Instale as dependências
 - npm install
 ### Execute o projeto
