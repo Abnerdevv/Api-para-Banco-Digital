@@ -34,6 +34,6 @@ Basta seguir estes passos:
 #### Execute o projeto
 - npm run dev
 
-## Como Executar ?
+## Capturas de Tela do meu projeto
 
-![Descrição da Imagem](./capturas/Listar%20Contas.PNG)
+![Endpoint de Listas contas](./capturas/Listar%20Contas.PNG)
