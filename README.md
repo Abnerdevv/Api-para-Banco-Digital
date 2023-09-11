@@ -17,5 +17,5 @@ Esta  é uma aplicação simples de um banco digital. Como dono do banco, você 
 - Olhar Saldo
 - Fazer extrato
 
-
+Cada função desta é um endepoint.
 
